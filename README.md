@@ -1,16 +1,34 @@
-## Hi there 👋
+### Halo semua! Saya Gracesita Yuecha Putri Jameela👋
 
-<!--
-**CellynAleyshaa/CellynAleyshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang siswi SMK jurusan Rekayasa Perangkat Lunak (RPL) yang memiliki ketertarikan kuat dalam dunia pengembangan web dan pemrograman. Saat ini, saya fokus memperdalam keahlian di bidang Front-End dan Back-End Development melalui proyek sekolah maupun pembelajaran mandiri. 
 
-Here are some ideas to get you started:
+### 🚀 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏫 **Pendidikan:** Siswi SMK Jurusan Rekayasa Perangkat Lunak (RPL)
+* 💻 **Fokus Belajar:** Membangun aplikasi web yang interaktif, responsif, dan fungsional.
+* 🌱 **Sedang Mempelajari:** Peningkatan logika pemrograman PHP, integrasi database, dan eksplorasi JavaScript modern.
+
+### 🛠️ Tech Stack & Alat Kerja
+
+Berikut adalah beberapa teknologi dan tools yang biasa saya gunakan dalam mengerjakan proyek: 
+
+### Languages & Front-End
+
+* HTML & CSS
+* Java
+* C++
+* Dart
+
+### Back-End & Database
+
+* PHP (Latihan Logika & CRUD Dasar)
+
+### Tools & Development
+
+* Git & GitHub
+* Visual Studio Code
+
+💡 *“Coding is not just about writing lines of code, it's about solving problems and creating something impactful.”* 
+
+📫 **Mari Terhubung:**
+Kamu bisa melihat beberapa proyek publik saya di bawah ini, atau hubungi saya via email di [Isi Email Kamu di Sini] jika ada hal menarik yang ingin didiskusikan!
